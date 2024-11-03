@@ -2,4 +2,6 @@ first edition
 seconde edtion
 third edtion
 issue resolved
-hotfix my solution
+hotfix team's solution
+New function added
+Team upgraded
